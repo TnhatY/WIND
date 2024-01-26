@@ -1,0 +1,11 @@
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\bin\Debug\Tuan_1.exe.config
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\bin\Debug\Tuan_1.exe
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\bin\Debug\Tuan_1.pdb
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.csproj.AssemblyReference.cache
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.Properties.Resources.resources
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.csproj.GenerateResource.cache
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.csproj.CoreCompileInputs.cache
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.exe
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.pdb
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.FormGV.resources
+D:\Deadline\LTWINDOWS\code\Tuan_1\Tuan_1\obj\Debug\Tuan_1.FormHS.resources

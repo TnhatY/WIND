@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tuan_1.GiaoVien" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tuan_1.HocSinh" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAA=</HashCode>
+      <FileName>HocSinh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tuan_1.People" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAEAACIABAAyAAQAEAAAAAAACAAgAAwAIAAAAgA=</HashCode>
+      <FileName>People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tuan_1.DAO" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAIACAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tuan_1.GiaoVienDAO" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAIACAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GiaoVienDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tuan_1.HocSinhDAO" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAACAAAAAAAAAIAQAAAAAAAA=</HashCode>
+      <FileName>HocSinhDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
